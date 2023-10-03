@@ -4,7 +4,6 @@ const nextConfig = {
 		buildActivity: false
 	},
 	distDir:'build',
-	ignoreDuringBuilds : false,
 	generateEtags:false,
 }
 
