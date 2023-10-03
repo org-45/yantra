@@ -20,3 +20,4 @@ export default function RootLayout({
     </html>
   )
 }
+//this will be a layout to be kept in all the pages in the app, basically we will set this layout for page.tsx in /
